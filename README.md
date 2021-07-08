@@ -10,7 +10,6 @@ This is a list of topics covered by the starred repositories of algers.
 - [free, software, remote](free-software-remote/README.md)
 - [github, stars, actions](github-stars-actions/README.md)
 - [html, page, generation](html-page-generation/README.md)
-- [icagicagicagicagicagicagicagicagicagicagicagicagicagicagicag, ls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0t, icagicagicagicagicagicagicagicagicagicagicagicagicagicagicb8](icagicagicagicagicagicagicagicagicagicagicagicagicagicagicag-ls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0tls0t-icagicagicagicagicagicagicagicagicagicagicagicagicagicagicb8/README.md)
 - [js, javascript, browser](js-javascript-browser/README.md)
 - [language, natural, processing](language-natural-processing/README.md)
 - [laravel, php, app](laravel-php-app/README.md)
